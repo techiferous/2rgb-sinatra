@@ -1,4 +1,4 @@
-h2. 2RGB -- An Example Rack Application
+h2. 2RGB -- An Example Sinatra Application
 
 h3. What It Is
 
